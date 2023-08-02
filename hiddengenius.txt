@@ -1,0 +1,8 @@
+REM hiddengeniusproject 
+DELAY 100 
+GUI r 
+DELAY 100
+STRING https://www.hiddengeniusproject.org
+ENTER
+DELAY 1000
+STRING f 
