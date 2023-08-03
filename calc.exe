@@ -1,5 +1,0 @@
-REM pops calc
-GUI r 
-DELAY 1000
-STRING calc.exe
-ENTER 

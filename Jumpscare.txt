@@ -1,0 +1,8 @@
+REM Rick Rolling 
+DELAY 100 
+GUI r 
+DELAY 100
+STRING https://www.youtube.com/watch?v=pFMpqS3C3LI
+ENTER
+DELAY 1000
+STRING f 
